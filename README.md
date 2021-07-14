@@ -1,4 +1,4 @@
-<h1 align="center">Roman Number Expression Evaluator<h1>
+<h1 align="center">Roman Number Expression Evaluator</h1>
 <p align="center">
 	Once upon a time it was a test task for one company
 </p>
